@@ -53,7 +53,7 @@ npm install mongoose axios express cors cookie-parser jsonwebtoken dotenv
 
 ```bash
 git clone https://github.com/nandhinigurumoorthyy/MERN-Blog-API.git
-cd MERN-Blog-Server
+cd MERN-Blog-API
 ```
 
 ### 2. **Create a `.env` file**
