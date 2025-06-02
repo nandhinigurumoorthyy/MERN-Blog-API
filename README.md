@@ -123,8 +123,6 @@ Ensure the frontend is connected and uses matching API endpoints.
 * **Frontend Repository**: [MERN Blog UI](https://github.com/nandhinigurumoorthyy/MERN-Blog-Client.git)
 * **Live Site**: [https://mern-blogcom-client.netlify.app/](https://mern-blogcom-client.netlify.app/)
 
-
-
 ---
 
 ## 🚀 Backend Deployment
@@ -132,6 +130,8 @@ Ensure the frontend is connected and uses matching API endpoints.
 The backend is deployed using **Render**.
 Make sure your frontend API calls point to the correct Render URL for proper connectivity.
 
+* 🌐 **Backend API**: [https://mern-blog-api-0v3s.onrender.com](https://mern-blog-api-0v3s.onrender.com)
+  
 ---
 
 
